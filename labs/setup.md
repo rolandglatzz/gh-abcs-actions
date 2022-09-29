@@ -15,6 +15,7 @@ References:
 4. Review the workflows and click on the button _`I understand my workflows, go ahead and enable them`_
 5. You should now be able to see the list of all workflows
 6. _(Optional)_ In your forked repository, create an new issue with tasks to monitor your progress
+7. 
 
 - Title: Training - Hands-on Labs & Activities
 - Content:
